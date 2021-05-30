@@ -546,6 +546,14 @@ $('#result-1').append("<div class='results-product__image'> <img src='skin-care-
 	.swym-button.swym-add-to-wishlist-view-product:not(.swym-loaded) {
 		display: none;
 	}
+#result-3 h2.title-medium.margin-bot-med {
+    width: 100%;
+    flex: 0 0 100%;
+}
+#result-3  {
+    display: flex;
+    flex-wrap: wrap;
+}
 	</style>
 </body>
 
