@@ -2896,7 +2896,7 @@
                       this.optIn && !this.success || this.emailjsSuccess && this.$emit("success")
                   },
                   getRecipeUrl: function() {
-                    var t = "http://" + window.location.host + "/skin-care/recipe-results.php";
+                    var t = "http://" + window.location.host + "//krush/recipe-results.html";
                      
                     return t += "?a=" + this.$route.params.skin, t += "&b=" + this.$route.params.eye, t += "&c=" + this.$route.params.type, t += "&d=" + this.$route.params.sensitivity
                   },
@@ -8528,7 +8528,7 @@
                       })
                   },
                   getRecipeUrl: function() {
-                      var t = "http://" + window.location.host + "/skin-care/recipe-results.php";
+                      var t = "http://" + window.location.host + "/krush/recipe-results.html";
                       var emil_id = document.getElementById('email-address').value;
                       // alert (emil_id);
                       return t += "?a=" + this.$route.params.skin, t += "&b=" + this.$route.params.eye, t += "&c=" + this.$route.params.type, t += "&d=" + this.$route.params.sensitivity,t += "&e=" +emil_id
