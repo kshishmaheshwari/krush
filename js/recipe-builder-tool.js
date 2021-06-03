@@ -8528,7 +8528,7 @@
                       })
                   },
                   getRecipeUrl: function() {
-                      var t = "http://krushskin.com/krush/recipe-results.html";
+                      var t = "http://krushskin.com/recipe-results.html";
                       var emil_id = document.getElementById('email-address').value;
                       // alert (emil_id);
                       return t += "?a=" + this.$route.params.skin, t += "&b=" + this.$route.params.eye, t += "&c=" + this.$route.params.type, t += "&d=" + this.$route.params.sensitivity,t += "&e=" +emil_id
