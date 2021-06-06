@@ -919,7 +919,7 @@
           name: "redness",
           title: "Reduce Redness",
           resultsTitle: "Reduce Redness",
-          description: "<p>Solutions to target redness, often seen most prominently in the cheeks and more common in sensitive and dry skin types.</p>",
+          description: "<p>Facial redness can be caused by a host of conditions, including sun damage, rosacea, seborrhea and acne.</p>",
           keyProduct: "niacinamide"
       }, {
           name: "texture",
