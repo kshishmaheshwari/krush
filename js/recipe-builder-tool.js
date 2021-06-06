@@ -925,7 +925,7 @@
           name: "texture",
           title: "Improve Texture",
           resultsTitle: "Improve Texture",
-          description: "<p>Skin texture is the condition of the surface of your skin. Ideally, the skin is smooth, soft, and supple, but it can be uneven or dull due to dry skin, blemishes, loss of collagen from aging, sun damage, or lack of exfoliation.</p>",
+          description: "<p>Ideally, the skin is smooth, soft, and supple, but it can be uneven or dull due to dry skin, blemishes, loss of collagen from aging, sun damage, or lack of exfoliation.</p>",
           keyProduct: "glycolic-acid"
       }, {
           name: "hyperpigmentation",
