@@ -19,7 +19,7 @@
       "undefined" != typeof Symbol && Symbol.toStringTag && Object.defineProperty(t, Symbol.toStringTag, {
           value: "Module"
       }), Object.defineProperty(t, "__esModule", {
-          value: !0
+          value: !0 
       })
   }, n.t = function(t, e) {
       if (1 & e && (t = n(t)), 8 & e) return t;
@@ -931,7 +931,7 @@
           name: "hyperpigmentation",
           title: "Reduce Hyperpigmentation",
           resultsTitle: "Reduce Hyperpigmentation",
-          description: "<p>Often seen as dark spots, marks or uneven skin tone. Can be caused by post acne marks or sun damage.</p>",
+          description: "<p>Hyperpigmentation is a common, usually harmless condition in which patches of skin become darker in color than the normal surrounding skin.</p>",
           keyProduct: "tranexamic-acid-night-treatment"
       }, {
           name: "breakouts",
