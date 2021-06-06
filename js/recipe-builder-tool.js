@@ -2712,19 +2712,19 @@
           name: "circles",
           title: "Dark Circles",
           resultsTitle: "Dark Circles",
-          description: "<p>A common concern, dark circles can be caused by factors including a lack of sleep, diet and travelling. However, skincare products cannot help with genetic dark circles.</p>",
+          description: "<p>Oversleeping, extreme fatigue, or just staying up a few hours past your normal bedtime can cause dark circles to form under your eyes.</p>",
           keyProduct: null
       }, {
           name: "puffiness",
           title: "Under Eye Puffiness",
           resultsTitle: "Under Eye Puffiness",
-          description: "<p>Under-eye puffiness is often caused by water retention underneath the eye, as well as factors such as lack of sleep. However, skincare products cannot help with puffiness caused by fat deposits.</p>",
+          description: "<p>Bags under eyes — mild swelling or puffiness under the eyes — are common as you age. With aging, the tissues around your eyes, including some of the muscles supporting your eyelids, weaken.</p>",
           keyProduct: null
       }, {
           name: "eye-fine-lines",
           title: "Fine Lines and Wrinkles",
           resultsTitle: "Fine Lines and Wrinkles",
-          description: "<p>Often the first signs of ageing, fine lines and wrinkles will appear in the creases of the eye area.</p>",
+          description: "<p>As you age, your skin loses some of its elasticity. Environmental factors, like sun exposure, as well as genetics play a role in how early wrinkles and fine lines will start to appear on a person’s face.</p>",
           keyProduct: ""
       }, {
           name: "none",
