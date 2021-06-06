@@ -943,7 +943,7 @@
           name: "oiliness",
           title: "Reduce Oiliness",
           resultsTitle: "Reduce Oiliness",
-          description: "<p>Excess oiliness can be seen as a sheen on the face. Often on the forehead, nose and chin, but can be across the whole face for oily skin types.</p>",
+          description: "<p>Oily skin can be caused by a variety of factors like genetics,hormones,stress,diet and humidity.</p>",
           keyProduct: "niacinamide"
       }, {
           name: "brighten",
