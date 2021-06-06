@@ -208,7 +208,7 @@ html {
    Body
 \*------------------------------------*/
 body {
-  background: #000000;
+  background: #f28597;
   font-size: 1.6rem;
   font-family: "Madras", "sans-serif";
   line-height: 1.4;
@@ -256,7 +256,7 @@ body {
 }
 
 .site-main {
-  color: #000000;
+  color: #f28597;
   background-color: #ffffff;
   padding-bottom: 4rem;
 }
@@ -274,7 +274,7 @@ body {
 
 .site-main.page-recipe-builder, .site-main.page-hair-recipe-builder, .site-main.page-gift-recipe-builder {
   color: #ffffff;
-  background: #000000;
+  background: #f28597;
   border-bottom: 0.1rem solid #ffffff;
 }
 
@@ -288,12 +288,12 @@ body {
     Selection
 \*------------------------------------*/
 ::-moz-selection {
-  background: #000000;
+  background: #f28597;
   color: #ffffff;
 }
 
 ::selection {
-  background: #000000;
+  background: #f28597;
   color: #ffffff;
 }
 
@@ -337,12 +337,12 @@ input[type=search].input--light,
 input[type=tel].input--light,
 select.input--light,
 textarea.input--light {
-  color: #000000;
+  color: #f28597;
   background-color: #ffffff;
 }
 
 input[type=text].input--light::-moz-selection, input[type=number].input--light::-moz-selection, input[type=email].input--light::-moz-selection, input[type=password].input--light::-moz-selection, input[type=search].input--light::-moz-selection, input[type=tel].input--light::-moz-selection, select.input--light::-moz-selection, textarea.input--light::-moz-selection {
-  background: #000000;
+  background: #f28597;
   color: #ffffff;
 }
 
@@ -354,7 +354,7 @@ input[type=search].input--light::selection,
 input[type=tel].input--light::selection,
 select.input--light::selection,
 textarea.input--light::selection {
-  background: #000000;
+  background: #f28597;
   color: #ffffff;
 }
 
@@ -366,8 +366,8 @@ input[type=search].input--outline,
 input[type=tel].input--outline,
 select.input--outline,
 textarea.input--outline {
-  -webkit-box-shadow: 0 0 0 0rem #000000 inset, 0 0 0 0.1rem #000000;
-          box-shadow: 0 0 0 0rem #000000 inset, 0 0 0 0.1rem #000000;
+  -webkit-box-shadow: 0 0 0 0rem #f28597 inset, 0 0 0 0.1rem #f28597;
+          box-shadow: 0 0 0 0rem #f28597 inset, 0 0 0 0.1rem #f28597;
 }
 
 input[type=text].input--outline:focus,
