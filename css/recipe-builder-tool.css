@@ -563,7 +563,7 @@
   left: 0;
   width: 5rem;
   height: 100%;
-  background: #000000;
+  background: ##f28597;
   border-left: 0.1rem solid #ffffff;
   border-top: 0.1rem solid #ffffff;
   border-bottom: 0.1rem solid #ffffff;
@@ -572,7 +572,7 @@
 
 .recipe-option__tooltip:hover .recipe-option__tooltip-icon {
   color: #ffffff;
-  background: #000000;
+  background: ##f28597;
 }
 
 .recipe-option__tooltip-icon {
@@ -582,7 +582,7 @@
   width: 2rem;
   height: 2rem;
   border-radius: 5rem;
-  color: #000000;
+  color: ##f28597;
   background: #ffffff;
   -webkit-box-shadow: 0 0 0 0.2rem #ffffff;
           box-shadow: 0 0 0 0.2rem #ffffff;
