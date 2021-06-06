@@ -75,7 +75,7 @@
 .hero {
   position: relative;
   padding: 2rem 0 4rem;
-  background-color: #000000;
+  background-color: #f28597;
   color: #ffffff;
 }
 
@@ -159,7 +159,7 @@
 }
 
 .hero--superfans {
-  background: #000000;
+  background: #f28597;
   color: #ffffff;
 }
 
@@ -175,7 +175,7 @@
 
 .hero--light {
   background: #ffffff;
-  color: #000000;
+  color: #f28597;
 }
 
 .hero--no-mobile-padding {
@@ -234,7 +234,7 @@
 
 .hero__box-copy {
   background-color: #ffffff;
-  color: #000000;
+  color: #f28597;
   padding: 2.6rem 2.2rem;
   margin-top: 1.8rem;
 }
@@ -458,7 +458,7 @@
 }
 
 .fixed-buttons__button:hover {
-  border-color: #000000;
+  border-color: #f28597;
 }
 
 @charset "UTF-8";
@@ -553,7 +553,7 @@
 }
 
 .accordion__item:hover .accordion__toggle {
-  color: #000000;
+  color: #f28597;
 }
 
 .accordion--dark .accordion__item:hover .accordion__toggle {
@@ -610,7 +610,7 @@
 }
 
 .accordion--dark .accordion__toggle:hover {
-  background: #000000;
+  background: #f28597;
 }
 
 .accordion__toggle--gift-card::after {
@@ -646,7 +646,7 @@
   position: absolute;
   width: 1.6rem;
   height: 0.18rem;
-  background: #000000;
+  background: #f28597;
   -webkit-transition: .3s all ease-in-out;
   transition: .3s all ease-in-out;
 }
