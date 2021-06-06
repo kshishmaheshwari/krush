@@ -937,43 +937,43 @@
           name: "breakouts",
           title: "Reduce Breakouts",
           resultsTitle: "Reduce Breakouts",
-          description: "<p>Breakouts of blemishes can appear anywhere on the face, but more commonly around the forehead, nose and chin. They can be intermittent or persistent.</p>",
+          description: "<p>Breakouts can be caused by many things including hormonal changes, medication, diet and stress.</p>",
           keyProduct: "salicylic-acid-cleanser"
       }, {
           name: "oiliness",
           title: "Reduce Oiliness",
           resultsTitle: "Reduce Oiliness",
-          description: "<p>Oily skin can be caused by a variety of factors like genetics,hormones,stress,diet and humidity.</p>",
+          description: "<p>Oily skin can be caused by a variety of factors like genetics, hormones, stress, diet and humidity.</p>",
           keyProduct: "niacinamide"
       }, {
           name: "brighten",
           title: "Brighten Skin",
           resultsTitle: "Brighten Skin",
-          description: "<p>All skin can look a little dull and in need of a pick me up from time to time. This can be caused by many factors including dehydration.</p>",
+          description: "<p>One of the benefits of brightening can be reduction and / or complete erasure of dark spots from scarring and acne.</p>",
           keyProduct: "15-vitamin-c-egf-serum"
       }, {
           name: "fine-lines",
           title: "Reduce Fine Lines and Wrinkles",
           resultsTitle: "Reduce Fine Lines and Wrinkles",
-          description: "<p>Signs of ageing that can begin to show from 25 onwards when the skin’s natural collagen production gradually slows.</p>",
+          description: "<p>Age and exposure to UV lights are the two main causes of Fine Lines and Wrinkles.</p>",
           keyProduct: "retinol"
       }, {
           name: "dryness",
           title: "Target Dryness and Dry Patches",
           resultsTitle: "Target Dryness and Dry Patches",
-          description: "<p>Solutions for long term and seasonal dryness.</p>",
+          description: "<p>Dry, cool air can strip your skin of moisture and cause dry patches to form.</p>",
           keyProduct: "polyglutamic-acid"
       }, {
           name: "blackheads",
           title: "Reduce Blackheads and Minimise Pores",
           resultsTitle: "Reduce Blackheads and Minimise Pores",
-          description: "<p>Often seen around the nose, forehead and chin, making pores appear larger and more pronounced.</p>",
+          description: "<p>Blackheads form when a hair follicle in the skin becomes clogged or plugged. Dead skin cells and excess oil collect in the follicle's opening, which produces a bump.</p>",
           keyProduct: "beta-hydroxy-acid"
       }, {
           name: "plumping",
           title: "Plump Skin",
           resultsTitle: "Plump Skin",
-          description: "<p>Solutions to help target signs of loss of elasticity in the face and neck.</p>",
+          description: "<p>Thin skin is the result of the thinning of the dermis. Thin skin is most often associated with aging.</p>",
           keyProduct: "collagen-booster"
       }, {
           name: "acne-scars",
