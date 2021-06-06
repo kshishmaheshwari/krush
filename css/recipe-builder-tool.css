@@ -350,7 +350,7 @@
   bottom: 0;
   right: 0;
   height: 100%;
-  background: #000000;
+  background: #f28597;
   opacity: .7;
 }
 
@@ -487,7 +487,7 @@
 }
 
 .recipe-option__button.selected {
-  background: #000000;
+  background: #f28597;
   color: #ffffff;
 }
 
@@ -632,7 +632,7 @@
 }
 
 .recipe-option__tooltip-icon--dark {
-  background: #000000;
+  background: #f28597;
 }
 
 .recipe-option__tooltip-icon--dark::before, .recipe-option__tooltip-icon--dark::after {
@@ -898,7 +898,7 @@
   position: relative;
   margin: 5rem 2rem;
   padding: 2.5rem;
-  color: #000000;
+  color: #f28597;
   background: #ffffff;
   width: 100%;
   max-width: 71rem;
@@ -1067,7 +1067,7 @@
       -ms-flex-align: center;
           align-items: center;
   padding: 1rem;
-  border: 0.1rem solid #000000;
+  border: 0.1rem solid #f28597;
   text-align: center;
   cursor: pointer;
   text-decoration: none;
@@ -1086,7 +1086,7 @@
 
 .overlay__currency-button.currency-active,
 .overlay__recipe-button.currency-active {
-  background-color: #000000;
+  background-color: #f28597;
   color: #ffffff;
 }
 
@@ -1106,7 +1106,7 @@
   max-width: calc(50% - 2.2rem);
   margin-left: 2.2rem;
   padding: 2rem;
-  border: 0.1rem solid #000000;
+  border: 0.1rem solid #f28597;
   text-align: center;
   cursor: pointer;
   text-decoration: none;
@@ -1137,7 +1137,7 @@
   height: 2rem;
   margin-top: 1rem;
   position: relative;
-  border: 0.1rem solid #000000;
+  border: 0.1rem solid #f28597;
   border-radius: 100%;
 }
 
