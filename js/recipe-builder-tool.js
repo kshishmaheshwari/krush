@@ -2659,22 +2659,22 @@
           name: "oily",
           title: "Oily Skin",
           resultsTitle: "Oily Skin",
-          description: "<p>Caused by an over production of sebum, which can lead to excess oil, congestion and blocked pores.</p><p>Characteristics:</p><ul><li>Visible, excess oil on the skin, often causing a sheen</li><li>Large visible pores</li><li>Blackheads and blemishes</li></ul>"
+          description: "<p>Oily skin is the result of the overproduction of sebum from sebaceous glands. These glands are located under the skin’s surface.</p>"
       }, {
           name: "dry",
           title: "Dry Skin",
           resultsTitle: "Dry Skin",
-          description: "<p>Caused by a lack of sebum in the skin and lack of water in the upper layers of the skin.</p><p>Characteristics:</p><ul><li>Skin feels tight and dry year-round, and may feel worse after bathing or showering</li><li>Visible flaking and itching</li><li>Skin looks tired and in need of a glow</li><li>May have loss of tone and elasticity</li><li>Signs of ageing and fine lines may seem more pronounced</li></ul>"
+          description: "<p>Dry skin is an uncomfortable condition marked by scaling, itching, and cracking. It can occur for a variety of reasons.</p>"
       }, {
           name: "normal",
           title: "Normal skin",
           resultsTitle: "Normal skin",
-          description: "<p>We don't believe any skin is more normal than another. However 'normal' skin is used to describe balanced skin that would not be characterized as too oily or too dry. May experience mild oiliness or dryness seasonally.</p><p>Characteristics:</p><ul><li>Fine, small pores</li><li>Smooth skin texture</li><li>Generally few blemishes but may suffer breakouts from time to time</li></ul>"
+          description: "<p>‘Normal’ is a term widely used to refer to well-balanced skin. The T-zone (forehead, chin and nose) may be a bit oily, but overall sebum and moisture is balanced and the skin is neither too oily nor too dry.</p>"
       }, {
           name: "combination",
           title: "Combination Skin",
           resultsTitle: "Combination Skin",
-          description: "<p>The T-zone down the centre of the face is generally oily and the cheeks are normal or dry.</p><p>Characteristics:</p><ul><li>Produces excess oil on the nose, forehead, or chin</li><li>Skin can feel tight or dry during winter</li><li>Enlarged pores in certain areas, including blackheads</li></ul>"
+          description: "<p>Combination skin is simply having oily skin in some areas of your face and dry skin in other areas. Typically, there’s a mix of oily and dry areas on different parts of your face, with the t-zone (forehead, nose, and chin) being slightly to very oily.</p>"
       }]
   },
   lMq5: function(t, e, n) {
