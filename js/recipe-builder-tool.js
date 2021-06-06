@@ -979,7 +979,7 @@
           name: "acne-scars",
           title: "Reduce appearance of Acne scars",
           resultsTitle: "Reduce Appearance of Acne Scars",
-          description: "<p>Uneven skin tone caused by previous breakouts.</p>",
+          description: "<p>Scars are formed when a breakout penetrates the skin deeply and damages the tissues beneath it.</p>",
           keyProduct: "tranexamic-acid-night-treatment"
       }]
   },
