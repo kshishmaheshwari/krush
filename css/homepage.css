@@ -151,7 +151,7 @@
   left: 0;
   width: 100%;
   bottom: 0;
-  background: #ffffff;
+  background: #f28597;
   z-index: 0;
 }
 
@@ -162,12 +162,12 @@
 }
 
 .hero-home--split .hero-home__right {
-  color: #f28597;
+  color: #ffffff;
 }
 
 @media (min-width: 48em) {
   .hero-home--split .hero-home__right {
-    color: #ffffff;
+    color: #f28597;
   }
 }
 
@@ -183,7 +183,7 @@
     left: -3rem;
     right: -3rem;
     bottom: -4rem;
-    background: #ffffff;
+    background: #f28597;
     z-index: 1;
   }
 }
@@ -194,12 +194,12 @@
 }
 
 .hero-home--split.hero-home--light .hero-home__right {
-  color: #f28597;
+  color: #ffffff;
 }
 
 @media (min-width: 48em) {
   .hero-home--split.hero-home--light .hero-home__right {
-    color: #f28597;
+    color: #ffffff;
   }
 }
 
@@ -288,7 +288,7 @@
   left: auto;
   -webkit-transform: none;
           transform: none;
-  border: 0.05rem solid #ffffff;
+  border: 0.05rem solid #f28597;
   border-width: 0 0.05rem 0 0;
 }
 
@@ -298,7 +298,7 @@
 
 @media (min-width: 48em) {
   .hero-home__button--half:last-child {
-    border: 0.1rem solid #ffffff;
+    border: 0.1rem solid #f28597;
   }
 }
 
@@ -308,7 +308,7 @@
     width: auto;
     bottom: 7rem;
     left: 50%;
-    border: 0.1rem solid #ffffff;
+    border: 0.1rem solid #f28597;
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
   }
@@ -452,7 +452,7 @@
 }
 
 .fixed-buttons__button:hover {
-  border-color: #f28597;
+  border-color: #ffffff;
 }
 
 @charset "UTF-8";
@@ -1021,7 +1021,7 @@
   left: .5rem;
   right: .5rem;
   bottom: .5rem;
-  background: #ffffff;
+  background: #f28597;
   z-index: 1;
 }
 
@@ -1038,28 +1038,28 @@
 }
 
 .product-listing__item:not(.product-listing__item--force-white):nth-child(odd) {
-  background-color: #f28597;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #f28597;
 }
 
 .product-listing__item:not(.product-listing__item--force-white):nth-child(odd) .button {
-  color: #ffffff;
-  background: #f28597;
-  border-color: #ffffff;
+  color: #f28597;
+  background: #ffffff;
+  border-color: #f28597;
 }
 
 .product-listing__item:not(.product-listing__item--force-white):nth-child(odd) .button::before {
-  background: #ffffff;
+  background: #f28597;
 }
 
 .product-listing__item:not(.product-listing__item--force-white):nth-child(odd) .button:hover {
-  -webkit-box-shadow: 0 0 0 0.1rem #ffffff;
-          box-shadow: 0 0 0 0.1rem #ffffff;
+  -webkit-box-shadow: 0 0 0 0.1rem #f28597;
+          box-shadow: 0 0 0 0.1rem #f28597;
 }
 
 @media (min-width: 48em) {
   .product-listing__item:not(.product-listing__item--force-white):nth-child(odd) .button:hover {
-    color: #f28597;
+    color: #ffffff;
     -webkit-box-shadow: none;
             box-shadow: none;
   }
@@ -1302,7 +1302,7 @@
 
 .product-listing__ecom-item {
   padding: 2rem 0;
-  border-bottom: 0.1rem solid #f28597;
+  border-bottom: 0.1rem solid #ffffff;
   -webkit-transition: background 0.3s, color 0.3s;
   transition: background 0.3s, color 0.3s;
 }
@@ -1312,7 +1312,7 @@
     width: 50%;
     position: relative;
     padding: 4rem 4rem 4rem 2rem;
-    border-right: 0.1rem solid #f28597;
+    border-right: 0.1rem solid #ffffff;
   }
   .product-listing__ecom-item:only-child {
     border-right: 0;
@@ -1336,7 +1336,7 @@
     position: absolute;
     bottom: -0.1rem;
     left: -2.2rem;
-    background-color: #f28597;
+    background-color: #ffffff;
   }
 }
 
@@ -1348,7 +1348,7 @@
 
 @media (min-width: 64em) {
   .product-listing__ecom-item:nth-child(2n) {
-    border-right: 0.1rem solid #f28597;
+    border-right: 0.1rem solid #ffffff;
   }
 }
 
@@ -1375,8 +1375,8 @@
 }
 
 .product-listing__ecom-item:not(.product-listing__ecom-item--border):hover {
-  background-color: #f28597;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #f28597;
 }
 
 @media (min-width: 48em) {
@@ -1693,11 +1693,11 @@
 }
 
 .product-steps-groups--inverted .product-steps__or-inner {
-  background: #f28597;
+  background: #ffffff;
 }
 
 .product-steps-groups--inverted .product-steps__or::before {
-  background: #ffffff;
+  background: #f28597;
 }
 
 .product-steps__title {
@@ -1731,7 +1731,7 @@
   left: 50%;
   width: 0.1rem;
   height: 100%;
-  background: #f28597;
+  background: #ffffff;
 }
 
 @media (min-width: 30em) {
@@ -1754,7 +1754,7 @@
 
 .product-steps__or-inner {
   position: relative;
-  background: #ffffff;
+  background: #f28597;
 }
 
 @charset "UTF-8";
@@ -1934,13 +1934,13 @@
   height: 1.5rem;
   padding: 0;
   margin: 0 0.2rem;
-  border: 0.1rem solid #f28597;
+  border: 0.1rem solid #ffffff;
   background: transparent;
   border-radius: 100%;
 }
 
 .glide__bullet--active {
-  background: #f28597;
+  background: #ffffff;
 }
 
 @charset "UTF-8";
@@ -2108,7 +2108,7 @@
 .carousel__arrow {
   width: 4rem;
   height: 4rem;
-  background-color: #f28597;
+  background-color: #ffffff;
   border: none;
   border-radius: 0;
   -webkit-appearance: none;
@@ -2130,18 +2130,18 @@
 }
 
 .carousel__arrow:not(.not-active):hover {
-  -webkit-box-shadow: 0rem 0rem 0rem 0.1rem #f28597;
-          box-shadow: 0rem 0rem 0rem 0.1rem #f28597;
+  -webkit-box-shadow: 0rem 0rem 0rem 0.1rem #ffffff;
+          box-shadow: 0rem 0rem 0rem 0.1rem #ffffff;
 }
 
 .carousel--dark .carousel__arrow {
-  background-color: #ffffff;
+  background-color: #f28597;
   background-image: url(//cdn.shopify.com/s/files/1/0428/8498/9091/t/21/assets/arrow-black.svg?v=16178065783941736091);
 }
 
 .carousel--dark .carousel__arrow:not(.not-active):hover {
-  -webkit-box-shadow: 0rem 0rem 0rem 0.1rem #ffffff;
-          box-shadow: 0rem 0rem 0rem 0.1rem #ffffff;
+  -webkit-box-shadow: 0rem 0rem 0rem 0.1rem #f28597;
+          box-shadow: 0rem 0rem 0rem 0.1rem #f28597;
 }
 
 .carousel__arrow--left {
@@ -2156,7 +2156,7 @@
   margin-left: 0.2rem;
   padding: 0;
   background-color: transparent;
-  border: 0.1rem solid #f28597;
+  border: 0.1rem solid #ffffff;
   border-radius: 100%;
   cursor: pointer;
   -webkit-appearance: none;
@@ -2167,25 +2167,25 @@
 }
 
 .carousel__bullet.glide__bullet--active {
-  background-color: #f28597;
-}
-
-.carousel__bullet:hover {
-  -webkit-box-shadow: 0rem 0rem 0rem 0.1rem #f28597;
-          box-shadow: 0rem 0rem 0rem 0.1rem #f28597;
-}
-
-.carousel--dark .carousel__bullet {
-  border: 0.1rem solid #ffffff;
-}
-
-.carousel--dark .carousel__bullet.glide__bullet--active {
   background-color: #ffffff;
 }
 
-.carousel--dark .carousel__bullet:hover {
+.carousel__bullet:hover {
   -webkit-box-shadow: 0rem 0rem 0rem 0.1rem #ffffff;
           box-shadow: 0rem 0rem 0rem 0.1rem #ffffff;
+}
+
+.carousel--dark .carousel__bullet {
+  border: 0.1rem solid #f28597;
+}
+
+.carousel--dark .carousel__bullet.glide__bullet--active {
+  background-color: #f28597;
+}
+
+.carousel--dark .carousel__bullet:hover {
+  -webkit-box-shadow: 0rem 0rem 0rem 0.1rem #f28597;
+          box-shadow: 0rem 0rem 0rem 0.1rem #f28597;
 }
 
 @media (min-width: 48em) {
