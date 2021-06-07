@@ -12068,3 +12068,13 @@ input[type=number].subscriptions-cart-items__qty {
     background: #f28597;
     color: #ffffff;
 }
+body {
+  background: #f28597;
+}
+.shopify-section-header {display:none}
+.site-main {
+    padding-bottom: 0;
+}
+.site-main {
+    color: #f28597;
+}
