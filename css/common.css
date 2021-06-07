@@ -6760,7 +6760,7 @@ em {
   left: 0;
   width: 100%;
   padding: 1rem 0;
-  background: #000000;
+  background: #f28597;
   color: #ffffff;
   z-index: 8;
 }
@@ -6951,7 +6951,7 @@ em {
   bottom: 0;
   width: 100%;
   padding: 2rem 3rem;
-  background: #000000;
+  background: #f28597;
   overflow: auto;
   -webkit-transition: -webkit-transform .4s;
   transition: -webkit-transform .4s;
@@ -7595,9 +7595,9 @@ input.head-search__input {
     Panel
 \*------------------------------------*/
 .panel {
-  position: relative;
-  background: #ffffff;
-  color: #000000;
+position: relative;
+    background: #f28597;
+    color: #ffffff;
 }
 
 .panel--margin {
@@ -7712,7 +7712,7 @@ input.head-search__input {
 }
 
 .panel--dark {
-  background: #000000;
+  background: #f28597;
   color: #ffffff;
 }
 
@@ -8262,7 +8262,7 @@ input.head-search__input {
 \*------------------------------------*/
 .site-footer {
   padding: 4rem 0;
-  background-color: #000000;
+  background-color: #f28597;
   color: #ffffff;
 }
 
@@ -12053,3 +12053,14 @@ input[type=number].subscriptions-cart-items__qty {
   color: #DC3545;
 }
 
+#shopify-section-home-campaign-panel .site-wrap .panel__border {
+    border-color: #ffffff;
+    background-color: #f28597;
+    color: #fff;
+}
+
+.site-main.page-recipe-landing .panel.panel--padded {
+    position: relative;
+    background: #f28597;
+    color: #ffffff;
+}
