@@ -9568,7 +9568,7 @@ position: relative;
   margin-left: -.5rem;
   width: 1rem;
   height: .2rem;
-  background: #000000;
+  background: #f28597;
   border-radius: .2rem;
   -webkit-transition: .4s;
   transition: .4s;
@@ -9654,7 +9654,7 @@ position: relative;
 .results-split-colours__left {
   margin: 0 -3rem;
   padding: 0 3rem;
-  background: #EDEDED;
+  background: #f28597;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -9725,7 +9725,7 @@ position: relative;
 }
 
 .results-card {
-  background: #ffffff;
+  background: #f28597;
   margin: 0 -2rem 1.5rem;
   padding: 3rem 2rem;
   -webkit-transition: background .4s;
