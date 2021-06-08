@@ -8490,7 +8490,7 @@
                   staticClass: "recipe-email__title"
               }, [n("h1", {
                   staticClass: "title-medium-responsive"
-              }, [t._v("\n                                Would you like your skincare recipe sending to your email?\n                            ")]), t._v(" "), n("p", [t._v("\n                                You can do this later too.\n                            ")])]), t._v(" "), n("email", {
+              }, [t._v("\n                                \n                            ")]), t._v(" "), n("p", [t._v("\n                                \n                            ")])]), t._v(" "), n("email", {
                   attrs: {
                       behaviour: "tool"
                   },
