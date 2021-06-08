@@ -2813,7 +2813,7 @@
               attrs: {
                   for: "opt-in"
               }
-          }, [t._v("\n            Opt in for game-changing advice, skincare tips and tricks and all our latest product news.\n        ")])]), t._v(" "), "tool" == t.behaviour ? [n("div", {
+          }, [t._v("\n            \n        ")])]), t._v(" "), "tool" == t.behaviour ? [n("div", {
               staticClass: "margin-bot-sml"
           }, [n("button", {
               staticClass: "button-submit button--always-full-width",
@@ -2828,7 +2828,7 @@
               }
           }, [n("span", {
               staticClass: "button-submit__text"
-          }, [t._v("\n                    " + t._s("" === this.emailAddress ? "Skip" : "Next") + "\n                ")])])]), t._v(" "), this.error ? n("button", {
+          }, [t._v("\n                    " + t._s("" === this.emailAddress ? "Recipe" : "Next") + "\n                ")])])]), t._v(" "), this.error ? n("button", {
               staticClass: "button-reset",
               attrs: {
                   type: "button"
