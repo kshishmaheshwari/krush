@@ -2809,7 +2809,7 @@
                   }
               }
           }), t._v(" "), n("label", {
-              staticClass: "input-checkbox__label",
+              staticClass: "",
               attrs: {
                   for: "opt-in"
               }
@@ -2818,7 +2818,7 @@
           }, [n("button", {
               staticClass: "button-submit button--always-full-width",
               attrs: {
-                  type: "button",
+                  type: ",
                   disabled: 1 == t.disableSubmit
               },
               on: {
