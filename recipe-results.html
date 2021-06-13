@@ -764,6 +764,33 @@ else {}
 						<div class='results-card'>
 							<p class='title-intro'></p>
 							<script>
+                                if (d === 'yes') {
+                                    setTimeout(function () {
+                                    $('#result-4').append("<h2 class='title-medium margin-bot-med'> Exfoliate </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/y1trans.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> The Ordinary Lactic Acid 10% 30 ml <br> $ 8.20 </h3> </div> <!----> </div>");
+                                    }, 1000);
+                                    
+                                  }
+                                  else if (d === 'little') {
+                                    setTimeout(function () {
+                                    $('#result-4').append("<h2 class='title-medium margin-bot-med'> Exfoliate </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/y2trans.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> The Ordinary Glycolic Acid 7% Toning Solution 240 ml <br> $ 9.60 </h3> </div> <!----> </div>");
+                                    }, 1000);
+                                    }
+    
+                                    else if (d === 'no') {
+                                    setTimeout(function () {
+                                    $('#result-4').append("<h2 class='title-medium margin-bot-med'> Exfoliate </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/y3tranx.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> The Ordinary AHA 30% + BHA 2% Peeling Solution 30 ml <br> $ 7.90 </h3> </div> <!----> </div>");
+                                    }, 1000);
+                                    }
+                                    
+                                </script>    
+    <div id ='result-4' class='results-product' style='display: flex;'>
+                                    
+    </div>
+							
+						</div>
+						<div class='results-card'>
+							<p class='title-intro'></p>
+							<script>
                                 if (c === 'oily') {
                                     setTimeout(function () {
                                     $('#result-3').append("<h2 class='title-medium margin-bot-med'> Cleanser </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/c1trans.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> CeraVe Renewing SA Cleanser </h3> </div> <!----> </div> <h2 class='title-medium margin-bot-med'> Moisturize </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/m1trans.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> Versed Dew Point Moisturizing Gel Cream </h3> </div> <!----> </div> <h2 class='title-medium margin-bot-med'> Sunscreen </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/s1trans.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> Neutrogena Ultra Sheer Dry-Touch Sunscreen Lotion </h3> </div> <!----> </div>");
@@ -792,33 +819,7 @@ else {}
                                     
     </div>
 						</div>
-						<div class='results-card'>
-							<p class='title-intro'></p>
-							<script>
-                                if (d === 'yes') {
-                                    setTimeout(function () {
-                                    $('#result-4').append("<h2 class='title-medium margin-bot-med'> Exfoliate </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/y1trans.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> The Ordinary Lactic Acid 10% 30 ml <br> $ 8.20 </h3> </div> <!----> </div>");
-                                    }, 1000);
-                                    
-                                  }
-                                  else if (d === 'little') {
-                                    setTimeout(function () {
-                                    $('#result-4').append("<h2 class='title-medium margin-bot-med'> Exfoliate </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/y2trans.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> The Ordinary Glycolic Acid 7% Toning Solution 240 ml <br> $ 9.60 </h3> </div> <!----> </div>");
-                                    }, 1000);
-                                    }
-    
-                                    else if (d === 'no') {
-                                    setTimeout(function () {
-                                    $('#result-4').append("<h2 class='title-medium margin-bot-med'> Exfoliate </h2> <div class='results-product' style='display: flex;'> <div class='results-product__image'> <img src='skin-care-images/y3tranx.png'  class='media__item'> </div> <div class='results-product__title'> <h3 class='margin-bot-sml text-capitalize'> The Ordinary AHA 30% + BHA 2% Peeling Solution 30 ml <br> $ 7.90 </h3> </div> <!----> </div>");
-                                    }, 1000);
-                                    }
-                                    
-                                </script>    
-    <div id ='result-4' class='results-product' style='display: flex;'>
-                                    
-    </div>
-							
-						</div>
+						
 						
 						<!---->
 						
@@ -978,16 +979,6 @@ else {}
 	.results-card {
 		flex: 0 0 33.3%;
 	}
-		.results-split-colours__left ,.results-split-colours__right {
-    margin: 0;
-    padding: 0;
-    -ms-flex-preferred-size: calc(58.33333% - 0rem);
-    flex-basis: 100% !important;
-    max-width: 100% !important;
-    margin-left: 0rem;
-    padding-top: 8rem;
-    padding-right: calc(8.33333% - 2.2rem);
-}
 	@media (max-width:767px){
 	.results-card {
 		flex: 0 0 100%;
