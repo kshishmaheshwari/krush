@@ -169,36 +169,7 @@
 	<div class='results-split-colours panel panel--margin is-am'>
 		<div class='site-wrap'>
 			<div class='results-split-colours__inner'>
-				<div class='results-split-colours__right'>
-					<div class='results-sidebar'>
-						 
-						<ul aria-label='Accordion Control Group Buttons' class='accordion accordion--dark'>
-							<li class='accordion__item'>
-							
-								<div aria-hidden='false' id='accordion-1' class='' style=''>
-									<div class='accordion__content'>
-										<div class='results-sidebar__media margin-bot-med'>
-											<div class='media'>
-												<button type='button' class='button-reset'>
-													
-
-													<img src='skin-care-images/Krush.png' class='media__item'>
-													
-												</button>
-											</div>
-										</div>
-										<div class='results-sidebar__text'>
-											<h3 class='subheading-medium'>
-                                                    Watch our quick video for some extra tips and tricks on how to layer. Remember if you want to know more, you can always #askINKEY
-                                                </h3>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-						
-					</div>
-				</div>
+				
 				<div class='results-split-colours__left cf'>
 					<div class='results-title-block'>
 						<h2 class='title-small results-title-block__title'>
@@ -206,7 +177,7 @@
                             </h2> 
 						
 					</div>
-					<div>
+					<div style="display: flex;flex-wrap: wrap;">
 						<div class='results-card'>
 							<p class='title-intro'></p>
 							<h2 class='title-medium margin-bot-med'>
@@ -737,7 +708,7 @@ else {}
 							<div id='results-1' class='results-product' style='display: flex;'>
 								
 							</div>
-                            <div id='results-2' class='results-product' style='display: flex;'>
+                            <!--<div id='results-2' class='results-product' style='display: flex;'>
 								
 							</div>
                             <div id='results-3' class='results-product' style='display: flex;'>
@@ -754,7 +725,7 @@ else {}
 							</div>
                             <div id='results-7' class='results-product' style='display: flex;'>
 								
-							</div>
+							</div> -->
 						</div>
 						<div class='results-card'>
 							<p class='title-intro'></p>
@@ -850,6 +821,36 @@ else {}
 						</div>
 						
 						<!---->
+						
+					</div>
+				</div>
+				<div class='results-split-colours__right'>
+					<div class='results-sidebar'>
+						 
+						<ul aria-label='Accordion Control Group Buttons' class='accordion accordion--dark'>
+							<li class='accordion__item'>
+							
+								<div aria-hidden='false' id='accordion-1' class='' style=''>
+									<div class='accordion__content'>
+										<div class='results-sidebar__media margin-bot-med'>
+											<div class='media'>
+												<button type='button' class='button-reset'>
+													
+
+													<img src='skin-care-images/Krush.png' class='media__item'>
+													
+												</button>
+											</div>
+										</div>
+										<div class='results-sidebar__text'>
+											<h3 class='subheading-medium'>
+                                                    Watch our quick video for some extra tips and tricks on how to layer. Remember if you want to know more, you can always #askINKEY
+                                                </h3>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
 						
 					</div>
 				</div>
@@ -974,6 +975,14 @@ else {}
     h2.title-medium.margin-bot-med {
         flex: 0 0 100%;
     }
+	.results-card {
+		flex: 0 0 33.3%;
+	}
+	@media (max-width:767px){
+	.results-card {
+		flex: 0 0 100%;
+	}
+	}
 	</style>
 </body>
 
