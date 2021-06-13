@@ -12082,3 +12082,6 @@ body {
     padding-top: 0;
     padding-right: 0;
 }
+.input-checkbox.margin-bot-lg {
+    display: none !important;
+}
