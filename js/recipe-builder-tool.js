@@ -7840,7 +7840,7 @@
                       }))
                   },
                   prev: function() {
-                      1 === this.step ? window.location.href = "recipe.php" : this.step--
+                      1 === this.step ? window.location.href = "recipe.html" : this.step--
                   }
               },
               mounted: function() {
@@ -8572,6 +8572,7 @@
               }, {
                   name: "sensitivity",
                   path: "/:skin/:eye/:type",
+                  component: R
                   component: R
               }, {
                   name: "email",
