@@ -7589,8 +7589,8 @@
                   attrs: {
                       "data-step": "1"
                   }
-              })])])]) : 1 == t.step ? n("div", {
-                  key: "1"
+              })])])]) : 2 == t.step ? n("div", {
+                  key: "2"
               }, [n("div", {
                   staticClass: "panel panel--dark"
               }, [n("div", {
@@ -7669,7 +7669,7 @@
                   }
               }, [n("span", {
                   staticClass: "button__text"
-              }, [t._v("\n                                        Next\n                                    ")])])])])])], 1)])]), t._v(" "), n("div", {
+              }, [t._v("\n                                                " + t._s(t.step2Started ? "Next" : "Skip") + "\n                                            ")])])])])])], 1)])]), t._v(" "), n("div", {
                   staticClass: "recipe-questions-progress"
               }, [n("div", {
                   staticClass: "recipe-questions-progress__bar",
