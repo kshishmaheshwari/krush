@@ -7589,8 +7589,8 @@
                   attrs: {
                       "data-step": "1"
                   }
-              })])])]) : 2 == t.step ? n("div", {
-                  key: "2"
+              })])])]) : 1 == t.step ? n("div", {
+                  key: "1"
               }, [n("div", {
                   staticClass: "panel panel--dark"
               }, [n("div", {
