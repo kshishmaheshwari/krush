@@ -12085,3 +12085,6 @@ body {
 .input-checkbox.margin-bot-lg {
     display: none !important;
 }
+.title-medium.margin-bot-med {
+    font-family: 'Courier New';
+}
